@@ -1,5 +1,10 @@
 A simple web application that displays current weather conditions using the OpenWeatherMap API.
 
+
+
+![Clouds and Weather Google Classroom Header](https://github.com/Prafukl/weather-web-app/assets/100024686/0e5c1b36-3b0b-41d0-b40a-ffd72489695a)
+
+
 Technologies Used
 HTML CSS JavaScript OpenWeatherMap API (https://openweathermap.org/api)
 
